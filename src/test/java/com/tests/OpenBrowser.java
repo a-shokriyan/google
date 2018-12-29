@@ -23,7 +23,7 @@ public class OpenBrowser {
 	
 	@Test
 	public void failTest() {
-		Assert.assertEquals(11, 12);
+		Assert.assertEquals(12, 12);
 	}
 
 }

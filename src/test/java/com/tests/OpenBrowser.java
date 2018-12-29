@@ -14,6 +14,8 @@ public class OpenBrowser {
 		
 		driver.get("http://www.google.com");
 		
+		driver.get("http://www.yahoo.com");
+		
 		driver.close();
 		
 	}
